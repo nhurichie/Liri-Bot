@@ -42,7 +42,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](.images/potify-this-song.png)
+    ![Results](./images/spotify-this-song.png)
 
     **Example 3**: Run `movie-this` command
     
@@ -50,7 +50,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](.images/movie-this.png)
+    ![Results](./images/movie-this.png)
 
 
     **Example 4**: Run `do-what-it-says` command
@@ -61,7 +61,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     See screen-shot below:
 
-    ![Results](.images/do-what-it-says.png)
+    ![Results](./images/do-what-it-says.png)
 
 - - -
 
@@ -78,6 +78,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
   * Spotify (https://developer.spotify.com/)
   * OMDB (http://www.omdbapi.com)
   * Bands In Town (http://www.artists.bandsintown.com/bandsintown-api)
-  
+
+### Respository
 * Git
 * GitHub
